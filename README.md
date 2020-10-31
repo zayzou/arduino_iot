@@ -1,11 +1,10 @@
 # arduino_iot 
 
-Arduino source code to send sensor data over the inernet .
+Arduino source code to send sensor data over the internet .
 
-**USP8266**
-**Thingspeak**
+**USP8266** **Thingspeak**
 
-# external library
+# external libraries : 
 
 - [ThingSpeak](https://github.com/mathworks/thingspeak-arduino)
 - [WiFiEsp](https://github.com/bportaluri/WiFiEsp)
